@@ -1,0 +1,2 @@
+*.thinkpad.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.230
+thinkpad.tailcbb29.ts.net^$dnsrewrite=NOERROR;A;100.100.35.82
