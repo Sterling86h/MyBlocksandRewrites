@@ -1,14 +1,22 @@
-*.thinkpad.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.230
-thinkpad.tailcbb29.ts.net^$dnsrewrite=NOERROR;A;100.100.35.82
-adguard.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.46
-npm.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.16
+#Oracle Cloud 1 Services
+adguard1.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.46
 duplicati.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.46
+
+#Oracle Cloud 2 Services
+adguard2.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.16
+npm.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.16
 rust.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.16
 guacamole.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.16
 portainer.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.16
 remotely.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.16
 navidrome.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.16
-oraclecloud1.tailcbb29.ts.net^$dnsrewrite=NOERROR;A;100.100.133.107
-oraclecloud2.tailcbb29.ts.net^$dnsrewrite=NOERROR;A;100.96.255.127
 kuma.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.16
 beszel.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.16
+
+#Thinkpad Servcices
+thinkpad.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.230
+
+#Tailscale Machines
+oraclecloud1.tailcbb29.ts.net^$dnsrewrite=NOERROR;A;100.100.133.107
+oraclecloud2.tailcbb29.ts.net^$dnsrewrite=NOERROR;A;100.96.255.127
+thinkpad.tailcbb29.ts.net^$dnsrewrite=NOERROR;A;100.100.35.82
