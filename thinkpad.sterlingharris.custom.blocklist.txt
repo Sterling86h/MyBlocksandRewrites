@@ -10,3 +10,5 @@ remotely.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.16
 navidrome.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.16
 oraclecloud1.tailcbb29.ts.net^$dnsrewrite=NOERROR;A;100.100.133.107
 oraclecloud2.tailcbb29.ts.net^$dnsrewrite=NOERROR;A;100.96.255.127
+kuma.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.16
+beszel.sterlingharris.com^$dnsrewrite=NOERROR;A;192.168.1.16
